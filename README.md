@@ -19,12 +19,7 @@ calculator
         <div class="container bg-black w-50 mt-4 rounded" >
             <div class="row">
             <div class="col-12 bg-black ">
-                <!-- <div class="col-10"> -->
             <input class="col-12" type="text" id="inp" placeholder="enter the name">
-                <!-- </div> -->
-                <!-- <div class="col-3">
-            <input type="button" name="" class="cl " id="back" onclick="back()" placeholder="button" value="Del">
-                </div> -->
             </div>
             </div>
             <div class="row ">
@@ -40,9 +35,6 @@ calculator
                 <div class="col-3 bg-secondary rounded">
                     <input type="button" name="" class="cl" id="clear" onclick="clear1()" placeholder="button"value="clear">
                 </div>
-                <!-- <div class="col-32 bg-secondary rounded">
-              <input type="button" name="" class="cl " id="back" onclick="back()" placeholder="button" value="Del">
-                </div> -->
             </div>
  <div class="row mt-3">
                 <div class="col-3 bg-secondary rounded">
@@ -98,13 +90,8 @@ calculator
                 </div>
                 <div class="col-3 bg-secondary rounded">
                     <input type="button" name="" class="cl" id="equal" onclick="equal1()" placeholder="button"value="=">
-                    <!-- <input type="button" name="" class="cl" id="par" onclick="par()" placeholder="button"value="%"> -->
                 </div>
             </div>
-        </div></div>
     </div>
     <script src="calculator.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
-    
-</body>
-</html>
