@@ -93,7 +93,7 @@
                     <button class="cl" id="par" onclick="par()" value="">%</button>
                 </div>
                 <div class="col-3 bg-secondary rounded">
-                    <input type="button" name="" class="cl" id="dot" onclick="dot()" placeholder="button "value=".">
+                    <input type="button" name="" class="cl" id="dot" onclick="dot()" placeholder="button" value=".">
                 </div>
                 <div class="col-3 bg-secondary rounded">
                     <input type="button" name="" class="cl" id="equal" onclick="equal1()" placeholder="button" value="=">
