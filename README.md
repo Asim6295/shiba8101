@@ -32,7 +32,7 @@
                     <input type="button" class="cl" name="" id="three" onclick="three1()" placeholder="button" value="3">
                 </div>
                 <div class="col-3 bg-secondary rounded">
-                    <input type="button" name="" class="cl" id="clear" onclick="clear1()" placeholder="button"value="clear">
+            <input type="button" name="" class="cl " id="back" onclick="back()" placeholder="button" value="Del">
                 </div>
             </div>
                <div class="row mt-3">
@@ -45,8 +45,8 @@
                  <div class="col-3 bg-secondary rounded">
                     <input type="button" name="" class="cl" id="six" onclick="six1()" placeholder="button" value="6">
                 </div>
+                    <input type="button" name="" class="cl" id="clear" onclick="clear1()" placeholder="button"value="clear">
                  <div class="col-3 bg-secondary rounded">
-            <input type="button" name="" class="cl " id="back" onclick="back()" placeholder="button" value="Del">
                 </div>
             </div>
              <div class="row mt-3">
