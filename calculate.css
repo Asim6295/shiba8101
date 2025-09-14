@@ -1,0 +1,76 @@
+body{
+    background-color: rgb(8, 110, 40);
+
+}
+
+.main-con {
+    margin-left: 400px;
+    margin-top: 40px;
+}
+
+h1 {
+    margin-left: 170px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.divin{
+     width: 39%;
+    height: 56px;
+    display: flex;
+    background: lightgray;
+gap: 4px;
+    margin-left: 7px;
+    border-radius: 20px;
+    border-bottom-right-radius: 1px;
+
+    border-left: none;
+    border: 1px solid black;
+    box-shadow: 1px 1px 5px 5px;
+
+
+}
+
+#inp {
+    /* width: 84%; */
+    height: 56px;
+    /* margin-left: 35px; */
+    color: rgb(2, 8, 13);
+    background-color: rgb(250, 250, 250);
+    border-radius: 20px;
+    border: 2px solid black;
+    /* box-shadow: 1px 1px 5px 3px  black; */
+
+    text-align: center;
+    font-size: large;
+}
+
+
+table {
+    box-shadow: 1px 1px 5px 5px;
+    width: 30%;
+    border-radius: 20px;
+    border-top-right-radius: 1px;
+    /* border-collapse: collapse; */
+}
+
+tr,
+td {
+    padding: 20px;
+    text-align: center;
+}
+
+.cl {
+    width: 45px;
+    height: 45px;
+    /* margin-left: 20px; */
+    border-radius: 50px;
+    background: rgb(21, 23, 24);
+    color: aliceblue;
+    font-size:15x;
+}
+.cl:hover{
+    box-shadow: 0 0 5px 2px rgb(236, 238, 239);
+    transform: scale(0.98);
+}
+.cll{
+    font-size: 10px;
+}
