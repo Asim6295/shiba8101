@@ -53,8 +53,8 @@
                  <div class="col-3 bg-secondary rounded">
                     <input type="button" name="" class="cl" id="six" onclick="six1()" placeholder="button" value="6">
                 </div>
-     <div class="col-3 bg-secondary rounded">
-                    <input type="button" name="" class="cl" id="clear" onclick="clear1()" placeholder="button"value="clear">
+                <div class="col-3 bg-secondary rounded">
+                    <input type="button" name="" class="cl" id="clear" onclick="clear1()" placeholder="button" value="clear">
                 </div>
             </div>
              <div class="row mt-3">
@@ -93,15 +93,13 @@
                     <button class="cl" id="par" onclick="par()" value="">%</button>
                 </div>
                 <div class="col-3 bg-secondary rounded">
-                    <input type="button" name="" class="cl" id="dot" onclick="dot()" placeholder="button"value=".">
+                    <input type="button" name="" class="cl" id="dot" onclick="dot()" placeholder="button "value=".">
                 </div>
                 <div class="col-3 bg-secondary rounded">
-                    <input type="button" name="" class="cl" id="equal" onclick="equal1()" placeholder="button"value="=">
-                    <!-- <input type="button" name="" class="cl" id="par" onclick="par()" placeholder="button"value="%"> -->
+                    <input type="button" name="" class="cl" id="equal" onclick="equal1()" placeholder="button" value="=">
                 </div>
             </div>
-        </div></div>
-    </div>
+           </div>
     <script src="calculator.js"></script>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
