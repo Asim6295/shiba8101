@@ -1,5 +1,4 @@
 # shiba8101
-calculator
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -22,7 +21,7 @@ calculator
             <input class="col-12" type="text" id="inp" placeholder="enter the name">
             </div>
             </div>
-            <div class="row ">
+              <div class="row ">
                 <div class="col-3 bg-secondary rounded text-align-center">
                     <input type="button" class="cl " name="" id="one" onclick="fun1()" placeholder="button" value="1">
                 </div>
@@ -36,7 +35,7 @@ calculator
                     <input type="button" name="" class="cl" id="clear" onclick="clear1()" placeholder="button"value="clear">
                 </div>
             </div>
- <div class="row mt-3">
+               <div class="row mt-3">
                 <div class="col-3 bg-secondary rounded">
                     <input type="button" class="cl" name="" id="four" onclick="four1()" placeholder="button" value="4">
                 </div>
@@ -92,6 +91,6 @@ calculator
                     <input type="button" name="" class="cl" id="equal" onclick="equal1()" placeholder="button"value="=">
                 </div>
             </div>
-    </div>
+          </div>
     <script src="calculator.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
