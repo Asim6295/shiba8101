@@ -45,7 +45,9 @@
                  <div class="col-3 bg-secondary rounded">
                     <input type="button" name="" class="cl" id="six" onclick="six1()" placeholder="button" value="6">
                 </div>
-                    <input type="button" name="" class="cl" id="clear" onclick="clear1()" placeholder="button"value="clear">
+                   <div>
+                    <input type="button" name="" class="cl" id="clear" onclick="clear1()" placeholder="button"value="clear"> 
+                   </div>
                  <div class="col-3 bg-secondary rounded">
                 </div>
             </div>
