@@ -100,8 +100,7 @@
                     <!-- <input type="button" name="" class="cl"  id="par" onclick="par()" placeholder="button"value="%"> -->
                 </div>
             </div>
-        </div></div>
-    </div>
+          </div>
     <script src="calculator.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
     
