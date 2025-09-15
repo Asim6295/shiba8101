@@ -53,7 +53,7 @@
                     <input type="button" name="" class="cl" class="col-3" id="six" onclick="six1()" placeholder="button" value="6">
                 </div>
                  <div class="col-3 bg-secondary rounded">
-            <input type="button" name="" class="cl  class="col-3"" id="back" onclick="back()" placeholder="button" value="Del">
+            <input type="button" name="" class="cl"  class="col-3" id="back" onclick="back()" placeholder="button" value="Del">
                 </div>
             </div>
              <div class="row mt-3">
