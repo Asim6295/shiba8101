@@ -59,7 +59,7 @@
             </div>
              <div class="row mt-3">
                  <div class="col-3 bg-secondary rounded">
-                    <input type="button" name="" class="col-12 rounded-5  cl py-5"  class="col-12 rounded-5  cl"  id="seven" onclick="seven1()"  placeholder="button" value="7">
+                    <input type="button" name="" class="col-12 rounded-5  cl py-5"  class="col-12 rounded-5  cl py-5"  id="seven" onclick="seven1()"  placeholder="button" value="7">
                 </div>
                 <div class="col-3 bg-secondary rounded">
                     <input type="button" class="col-12 rounded-5  cl py-5"  name="" id="button" onclick="fun()" placeholder="button" value="8">
@@ -90,7 +90,7 @@
                     <input type="button" name="" class="col-12 rounded-5  cl py-5"  id="doub" onclick="double()" placeholder="button" value="00">
                 </div>
                 <div class="col-3 bg-secondary rounded">
-                    <button class="col-12 rounded-5  cl"  id="par" onclick="par()" value="">%</button>
+                    <button class="col-12 rounded-5  cl py-5"  id="par" onclick="par()" value="">%</button>
                 </div>
                 <div class="col-3 bg-secondary rounded">
                     <input type="button" name="" class="col-12 rounded-5  cl py-5"  id="dot" onclick="dot()" placeholder="button" value=".">
