@@ -59,7 +59,7 @@
             </div>
              <div class="row mt-3">
                  <div class="col-3 bg-secondary rounded  py-3">
-                    <input type="button" name="" class="col-12 rounded-5  cl "  class="col-12 rounded-5  "  id="seven" onclick="seven1()"  placeholder="button" value="7">
+                    <input type="button" name="" class="col-12 rounded-5  cl "   id="seven" onclick="seven1()"  placeholder="button"  value="7">
                 </div>
                 <div class="col-3 bg-secondary rounded  py-3">
                     <input type="button" class="col-12 rounded-5  cl "  name="" id="button" onclick="fun()" placeholder="button" value="8">
