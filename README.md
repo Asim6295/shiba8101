@@ -19,7 +19,7 @@
             <div class="row">
             <div class="col-12 bg-black ">
                 <!-- <div class="col-10"> -->
-            <input class="col-12" type="text" id="inp" placeholder="enter the name">
+            <input class="col-12" type="text" id="inp" placeholder="enter the number">
                 <!-- </div> -->
                 <!-- <div class="col-3">
             <input type="button" name="" class="col-12 rounded-5  cl  " id="back" onclick="back()" placeholder="button" value="Del">
