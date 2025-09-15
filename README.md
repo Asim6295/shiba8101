@@ -15,7 +15,7 @@
 </head>
 <body>
     <div class="container col-12">
-        <div class="container bg-black w-50 mt-4 rounded" >
+        <div class="container bg-black w-50 col-6 mt-4 rounded" >
             <div class="row">
             <div class="col-12 bg-black ">
                 <!-- <div class="col-10"> -->
